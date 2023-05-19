@@ -9,7 +9,7 @@ Balance Assist Bicycle for Fall Reduction
 :past_researchers: Marco Reijne
 :research_theme: Bicycle Engineering
 :template: project
-:summary-sentence: We have developed a bicycle with a electric steering motor
+:summary-sentence: We have developed a bicycle with an electric steering motor
                    that is capable of stabilizing itself at lower speeds than
                    regular bicycles. When ridden this effect enhances the
                    rider's balance at low speeds where falls often occur.
@@ -22,8 +22,8 @@ Description
 A substantial number of falls while bicycling happen due to loss of balance and
 control at low speeds [1]_. A normal bicycle is unstable at low speeds and
 requires acute attention from the rider to maintain balance. We have developed
-a bicycle with a steering motor that can steer itself and can stabilize itself
-at speeds as low as 6 km/h. When ridden, the steer motor assists the rider in
+a bicycle with a steering motor that can steer and stabilize itself
+at speeds as low as 5 km/h. When ridden, the steer motor assists the rider in
 balancing and staying upright. We are evaluating whether this bicycle can
 reduce the chances of falling in hazardous situations. Our first study shows
 that riders use less steering and have less rolling motions when the steering
